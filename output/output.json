@@ -1,0 +1,39 @@
+[
+  {
+    "ImageFilePath": "images/anubis.jpg",
+    "GPS": {
+      "Latitude": 49.254508333333334,
+      "Longitude": -123.100225
+    }
+  },
+  {
+    "ImageFilePath": "images/bird.jpeg",
+    "GPS": {
+      "Latitude": 48.564388888888885,
+      "Longitude": -123.43914166666667
+    }
+  },
+  {
+    "ImageFilePath": "images/exif-error.jpg",
+    "GPS": null
+  },
+  {
+    "ImageFilePath": "images/more_images/david.gif",
+    "GPS": null
+  },
+  {
+    "ImageFilePath": "images/more_images/dog.png",
+    "GPS": null
+  },
+  {
+    "ImageFilePath": "images/more_images/wax-card.jpg",
+    "GPS": {
+      "Latitude": 49.25448611111111,
+      "Longitude": -123.10018055555555
+    }
+  },
+  {
+    "ImageFilePath": "images/rock.jpg",
+    "GPS": null
+  }
+]
